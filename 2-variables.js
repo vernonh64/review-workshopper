@@ -11,8 +11,8 @@ let nSarah= Ernesto
 let nDave= Sarah
 
 Ernesto = nErnesto
- Sarah= nSarah
- Dave= nDave
+Sarah= nSarah
+Dave= nDave
 
 
 
